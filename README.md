@@ -1,5 +1,5 @@
 # Python OCR機能の確認
-画像OCR関数を対応
+python でOCR実行
 # 環境
 Python 3.9.16
 # 参考
